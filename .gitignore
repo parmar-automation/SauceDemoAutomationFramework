@@ -1,1 +1,19 @@
-/target/
+# Eclipse specific files
+.metadata
+.classpath
+.project
+.settings/
+
+# Build folders
+target/
+test-output/
+bin/
+
+# Logs and Reports
+automation.log
+Reports/*.html
+Screenshots/*.png
+
+# OS specific files
+Thumbs.db
+.DS_Store
